@@ -7,17 +7,18 @@ class : blue
 # Präsentation über Passwort-Manager
 
 von Robert und Ward
-
+<r>
 ---
 
 # Inhaltsverzeichnis
 
 * Was ist ein Passwort-Manager?
-* Warum braucht man einen Passwort-Manager?
+- Warum braucht man ein Passwortmanageer?
 * Welche Passwort-Manager sind am Sichersten?
 - Wie benutzt man einen Passwort-Manager sicher?
 * Wann braucht man einen Passwort-Manager?
 * Welche Arten von Passwort-Manager gibt es?
+- Welchen Nutzen bringt ein Passwortmanager im Alltag?
 
 ---
 
